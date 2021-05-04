@@ -1,0 +1,5 @@
+/node_modules
+yarn-error.log
+/dist/bundle.js
+/dist/bundle.js.LICENSE.txt
+/dist/bundle.js.map
